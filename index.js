@@ -74,7 +74,7 @@ app.get('/currentuser', function (req, res) {
 
 
 const accountSid = "AC0c102819fa223a9c7a0d3a50581ea02a";
-const authToken = "92359d503b9d2d0d2edf77f72c44b33b";
+const authToken = "f781ece757d14b26319e9338a7710729";
 
 const client = require('twilio')(accountSid, authToken);
 
